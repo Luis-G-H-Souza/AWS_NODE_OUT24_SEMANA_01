@@ -1,0 +1,1 @@
+select * from usuarios where desnome like 'm%';
