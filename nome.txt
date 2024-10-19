@@ -1,4 +1,5 @@
 Minha descrição:
 
 	Meu nome é Luis Gustavo Henrique de Souza, tenho 21 anos, estou cursando Eng. da Computação pela UNIVESP, estou no 6 semestre e
-	tenho um breve conhecimento sobre javascript, git/github, banco de dados relacionais, C++ voltado para IOT e python.
+tenho um breve conhecimento sobre javascript, git/github, banco de dados relacionais, C++ voltado para IOT e python.
+	Nas horas vagas, gosta de ir para a academia, ler um livro e jogar no pc.	
