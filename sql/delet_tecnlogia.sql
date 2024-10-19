@@ -1,0 +1,1 @@
+delete from tecnologias where idtecnologia = 8;
