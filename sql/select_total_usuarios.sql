@@ -1,0 +1,1 @@
+select count(idusuario) 'total de usuarios' from usuarios;
