@@ -1,4 +1,4 @@
-# READEME DO DESAFIO 01 DA COMPASSUOL
+# READEM DO DESAFIO 01 DA COMPASSUOL
 ## Assuntos que aprendi na semana 01 da trilha de NODE:
 ### **FUNDAMENTOS DA SEGURANÇA DA INFORMAÇÃO:**
     O primeito assunto que eu estudei foi sobre fundamentos da segurança da informação, nele vi os Pilares e políticas de Segurança da informação, Classificação da Informação, Engenharia Social, Boas práticas e diretrizes e Segurança para Inteligência Artificial Generativa.
